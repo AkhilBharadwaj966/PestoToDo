@@ -1,0 +1,22 @@
+# Frontend dependencies
+/fronttodo/node_modules
+/fronttodo/.pnp
+/fronttodo/.pnp.js
+
+# fronttodo testing
+/fronttodo/coverage
+
+# fronttodo production
+/fronttodo/build
+
+# Misc files
+.DS_Store
+/fronttodo/.env.local
+/fronttodo/.env.development.local
+/fronttodo/.env.test.local
+/fronttodo/.env.production.local
+
+# NPM logs
+npm-debug.log*
+/fronttodo/yarn-debug.log*
+/fronttodo/yarn-error.log*
